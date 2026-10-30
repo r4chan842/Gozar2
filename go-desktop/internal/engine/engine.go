@@ -8,8 +8,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/dnsproxy"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/tundev"
+	"github.com/r4chan842/gozar/go-desktop/internal/dnsproxy"
+	"github.com/r4chan842/gozar/go-desktop/internal/tundev"
 	"gvisor.dev/gvisor/pkg/tcpip"
 	"gvisor.dev/gvisor/pkg/tcpip/adapters/gonet"
 	"gvisor.dev/gvisor/pkg/tcpip/header"

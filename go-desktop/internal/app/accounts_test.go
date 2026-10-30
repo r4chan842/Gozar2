@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/config"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/fxa"
+	"github.com/r4chan842/gozar/go-desktop/internal/config"
+	"github.com/r4chan842/gozar/go-desktop/internal/fxa"
 )
 
 func accountApp(t *testing.T) *App {

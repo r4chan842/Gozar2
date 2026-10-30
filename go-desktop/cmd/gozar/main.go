@@ -10,11 +10,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/app"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/fxa"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/rpc"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/sysproxy"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/tundev"
+	"github.com/r4chan842/gozar/go-desktop/internal/app"
+	"github.com/r4chan842/gozar/go-desktop/internal/fxa"
+	"github.com/r4chan842/gozar/go-desktop/internal/rpc"
+	"github.com/r4chan842/gozar/go-desktop/internal/sysproxy"
+	"github.com/r4chan842/gozar/go-desktop/internal/tundev"
 )
 
 const version = "1.9.4"

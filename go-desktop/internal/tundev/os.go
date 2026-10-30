@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/quiet"
+	"github.com/r4chan842/gozar/go-desktop/internal/quiet"
 )
 
 type Config struct {

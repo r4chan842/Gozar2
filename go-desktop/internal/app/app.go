@@ -11,12 +11,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/config"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/engine"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/fxa"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/tundev"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/tunnel"
-	"github.com/bardia049b-stack/gozar/go-desktop/internal/wintun"
+	"github.com/r4chan842/gozar/go-desktop/internal/config"
+	"github.com/r4chan842/gozar/go-desktop/internal/engine"
+	"github.com/r4chan842/gozar/go-desktop/internal/fxa"
+	"github.com/r4chan842/gozar/go-desktop/internal/tundev"
+	"github.com/r4chan842/gozar/go-desktop/internal/tunnel"
+	"github.com/r4chan842/gozar/go-desktop/internal/wintun"
 )
 
 type AccountSummary struct {

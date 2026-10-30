@@ -1,4 +1,4 @@
-module github.com/bardia049b-stack/gozar/go-desktop
+module github.com/r4chan842/gozar/go-desktop
 
 go 1.24
 

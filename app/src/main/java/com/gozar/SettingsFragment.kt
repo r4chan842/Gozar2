@@ -363,7 +363,7 @@ class SettingsFragment : Fragment() {
     private fun ltr(value: String): String =
         BidiFormatter.getInstance(resources.configuration.locales[0]).unicodeWrap(value, TextDirectionHeuristics.LTR)
 
-    private fun openProject() = openUrl("https://github.com/bardia049b-stack/Gozar")
+    private fun openProject() = openUrl("https://github.com/r4chan842/Gozar")
 
     private fun openUrl(url: String) {
         try {
